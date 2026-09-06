@@ -12,7 +12,6 @@ from PIL import Image
 
 st.set_page_config(
     page_title="Lung Candidate Detection",
-    page_icon="🫁",
     layout="wide"
 )
 
